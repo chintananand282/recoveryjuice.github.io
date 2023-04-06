@@ -1,0 +1,6 @@
+2023-03-07T07:30:27+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\recovery-juice\wp-content\themes\recoveryjuice-storefront\functions.php on line 23
+
+2023-03-07T10:48:52+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\recovery-juice\wp-content\themes\recoveryjuice-storefront\functions.php on line 47
+
+2023-03-07T10:48:59+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\recovery-juice\wp-content\themes\recoveryjuice-storefront\functions.php on line 47
+

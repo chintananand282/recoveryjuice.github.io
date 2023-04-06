@@ -1,0 +1,18 @@
+2023-03-23T10:09:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\xampp\htdocs\recovery-juice\wp-content\themes\recoveryjuice-storefront\woocommerce\archive-product.php on line 30 and at least 2 expected in C:\xampp\htdocs\recovery-juice\wp-includes\plugin.php:612
+Stack trace:
+#0 C:\xampp\htdocs\recovery-juice\wp-content\themes\recoveryjuice-storefront\woocommerce\archive-product.php(30): remove_action('woocommerce_bre...')
+#1 C:\xampp\htdocs\recovery-juice\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\recovery-juice\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\recovery-juice\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\recovery-juice\wp-includes\plugin.php on line 612
+
+2023-03-23T10:09:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in C:\xampp\htdocs\recovery-juice\wp-content\themes\recoveryjuice-storefront\woocommerce\archive-product.php on line 30 and at least 2 expected in C:\xampp\htdocs\recovery-juice\wp-includes\plugin.php:612
+Stack trace:
+#0 C:\xampp\htdocs\recovery-juice\wp-content\themes\recoveryjuice-storefront\woocommerce\archive-product.php(30): remove_action('woocommerce_bre...')
+#1 C:\xampp\htdocs\recovery-juice\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\recovery-juice\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\recovery-juice\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\recovery-juice\wp-includes\plugin.php on line 612
+
